@@ -1,10 +1,10 @@
 # Meus certificados
 Este são alguns dos certificados obtidos por mim.
 
-### HTML 5
+### HTML
  ![](curso-web.jpg)
 
-### CSS3
+### CSS
 ![](curso-css3.jpg)
 
 ### JavaScript
