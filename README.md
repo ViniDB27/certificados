@@ -28,7 +28,15 @@ Este são alguns dos certificados obtidos por mim.
 ## Certificados Digital Innovation One
 
 ### HTML5 - CSS3
+![](digital-innovation-one/1C791893.jpg)
+
+### JavaScript
 ![](digital-innovation-one/7E43B5C1.jpg)
+![](digital-innovation-one/720ADE5D.jpg)
+![](digital-innovation-one/C3B802EA.jpg)
+
+### Node Js
+![](digital-innovation-one/2C85F657.jpg)
 
 
 ## Certificados em outras áreas
