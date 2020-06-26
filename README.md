@@ -43,14 +43,20 @@ Este são alguns dos certificados obtidos por mim.
 
 ### React Js
 ![](digital-innovation-one/DDA34936.jpg)
-![](digital-innovation-one/DDA34936.jpg)
+![](digital-innovation-one/CEE100A6.jpg)
+
+### JQuery
+![](digital-innovation-one/140EE01F.jpg)
 
 ### SCRUM
 ![](digital-innovation-one/E3E2D137.jpg)
 
 ### Git e GitHub
 ![](digital-innovation-one/EDEAAF06.jpg)
-![](digital-innovation-one/F9A2C196.jpg)
+![](digital-innovation-one/FDFBBEBA.jpg)
+
+### Aruitetura de Sistemas
+![](digital-innovation-one/53E5CA31.jpg)
 
 ## Certificados em outras áreas
 
