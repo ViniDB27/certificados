@@ -24,3 +24,12 @@ Este são alguns dos certificados obtidos por mim.
 
 ### PHP
 ![](curso-php.jpg)
+
+
+## Certificados em outras áreas
+
+### Hackathon CCR
+![](Certificado-Hackathon-Ccr-&-Shawee.jpg)
+
+### Networking Solution
+![](Networking-Solution.jpg)
