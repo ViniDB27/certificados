@@ -30,6 +30,9 @@ Este são alguns dos certificados obtidos por mim.
 ### HTML5 - CSS3
 ![](digital-innovation-one/1C791893.jpg)
 
+### Bootstrap
+![](digital-innovation-one/F9A2C196.jpg)
+
 ### JavaScript
 ![](digital-innovation-one/7E43B5C1.jpg)
 ![](digital-innovation-one/720ADE5D.jpg)
@@ -38,6 +41,16 @@ Este são alguns dos certificados obtidos por mim.
 ### Node Js
 ![](digital-innovation-one/2C85F657.jpg)
 
+### React Js
+![](digital-innovation-one/DDA34936.jpg)
+![](digital-innovation-one/F9A2C196.jpg)
+
+### SCRUM
+![](digital-innovation-one/E3E2D137.jpg)
+
+### Git e GitHub
+![](digital-innovation-one/EDEAAF06.jpg)
+![](digital-innovation-one/DDA34936.jpg)
 
 ## Certificados em outras áreas
 
