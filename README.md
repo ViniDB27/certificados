@@ -28,7 +28,7 @@ Este são alguns dos certificados obtidos por mim.
 ## Certificados Digital Innovation One
 
 ### HTML5 - CSS3
-![](digital-innovation-one/Certificado-Hackathon-Ccr-&-Shawee.jpg)
+![](digital-innovation-one/7E43B5C1.jpg)
 
 
 ## Certificados em outras áreas
