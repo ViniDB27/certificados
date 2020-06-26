@@ -25,6 +25,8 @@ Este são alguns dos certificados obtidos por mim.
 ### PHP
 ![](curso-php.jpg)
 
+## Certificados Digital
+
 
 ## Certificados em outras áreas
 
