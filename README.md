@@ -18,3 +18,9 @@ Este são alguns dos certificados obtidos por mim.
 
 ### Python
 ![](curso-python.jpg)
+
+### Flask
+![](curso-flask.jpg)
+
+### PHP
+![](curso-php.jpg)
